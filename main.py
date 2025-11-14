@@ -1,4 +1,7 @@
-"""Application PyQt6 pour générer, chiffrer et déchiffrer des messages RSA optimisée."""
+"""
+Application PyQt6 pour générer, chiffrer et déchiffrer des messages RSA optimisée.
+Auteur : Rafael ISTE © 2025
+"""
 
 import sys
 import random
@@ -353,3 +356,4 @@ if __name__ == "__main__":
     window = RsaQt()
     window.show()
     sys.exit(app.exec())
+
