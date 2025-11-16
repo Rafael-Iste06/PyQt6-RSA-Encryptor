@@ -3,7 +3,7 @@
 ## Structure du projet
 
 ```
-rsa_crypteur/
+pyqt6_rsa_encryptor/
 │
 ├─ main.py # Code principal de l'application
 ├─ requirements.txt # Dépendances Python
@@ -46,4 +46,5 @@ rsa_crypteur/
 - **Primalité probabiliste (Miller-Rabin)**
 - **Modular exponentiation**
 - **Interface graphique avec QWidgets, QLineEdit, QPushButton, QTabWidget**
+
 
