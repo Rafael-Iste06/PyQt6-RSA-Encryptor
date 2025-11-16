@@ -12,7 +12,7 @@ cd pyqt6_rsa_encryptor
 ```
 2. Installer les dépendances :
 ```bash
-pip install PyQt6
+pip install -r requirements.txt
 ```
 3. Lancer l'application :
 ```bash
@@ -22,5 +22,6 @@ python main.py
 ## Notes
 * L'application fonctionne sur Windows, macOS et Linux.
 * Pour un affichage correct, utiliser une police moderne comme "Segoe UI".
+
 
 
