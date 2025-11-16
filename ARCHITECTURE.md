@@ -13,8 +13,7 @@ rsa_crypteur/
 ├─ CHANGELOG.md
 ├─ CONTRIBUTING.md
 ├─ LICENSE.md
-├─ ROADMAP.md
-└─ assets/ # (optionnel) images, icônes, etc.
+└─ ROADMAP.md
 ```
 
 ## Modules principaux
@@ -47,3 +46,4 @@ rsa_crypteur/
 - **Primalité probabiliste (Miller-Rabin)**
 - **Modular exponentiation**
 - **Interface graphique avec QWidgets, QLineEdit, QPushButton, QTabWidget**
+
