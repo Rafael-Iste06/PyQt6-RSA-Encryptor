@@ -1,5 +1,9 @@
 # RSA Crypteur PyQt6
 
+![Python](https://img.shields.io/badge/Python-3.11+-blue)
+![PyQt6](https://img.shields.io/badge/PyQt6-6.6.0+-green)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
 Application Python pour générer, chiffrer et déchiffrer des messages RSA via une interface graphique PyQt6.
 
 ## Fonctionnalités
@@ -21,3 +25,4 @@ Voir [INSTALL.md](INSTALL.md)
 
 ## Licence
 MIT License - voir [LICENSE.md](LICENSE.md)
+
