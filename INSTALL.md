@@ -8,7 +8,7 @@
 1. Cloner le dépôt :
 ```bash
 git clone https://github.com/Rafael-Iste06/PyQt6-RSA-Encryptor
-cd rsa_crypteur
+cd pyqt6_rsa_encryptor
 ```
 2. Installer les dépendances :
 ```bash
@@ -22,4 +22,5 @@ python main.py
 ## Notes
 * L'application fonctionne sur Windows, macOS et Linux.
 * Pour un affichage correct, utiliser une police moderne comme "Segoe UI".
+
 
